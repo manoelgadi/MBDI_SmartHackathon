@@ -4,6 +4,9 @@
 
 This repository is a collaborative workspace for the Smart Automation Hackathon, an exclusive event for MDBI students organized by Prof. Manoel Gadi. The hackathon will focus on Generative AI and its applications in automating business processes.
 
+**Important Videos**
+https://www.youtube.com/watch?v=k3Jb2TRKyL0&list=PL-u98Cvcx-VbHe1QSp2zTeweBBoSu4T3W
+
 **Event Details**
 
 * **Date and Time:** Wednesday, January 22nd, from 3:00 PM to 6:00 PM
